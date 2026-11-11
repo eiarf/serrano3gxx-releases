@@ -6,6 +6,10 @@ Unofficial, experimental port of **LineageOS 21.0 (Android 14 Go Edition)** base
 > **AI / LLM Development Disclosure**:
 > This porting project, device tree adaptations, userspace shim fixes, and kernel debugging were researched, engineered, and diagnosed in close collaboration with an **AI / Large Language Model (Google Antigravity / DeepMind)** paired with the maintainer.
 
+> [!IMPORTANT]
+> **Initial Build & Maintenance Notice**:
+> This is an **initial experimental build**. There is **no guarantee of future updates, regular maintenance, or planned roadmaps**. It is shared strictly "as-is" for personal archive and testing purposes. Do not expect continuous updates.
+
 ---
 
 ## 📱 Device Specifications
